@@ -1,2 +1,6 @@
-# Sony-Data-Breach-Analysis
-An in-depth analysis of the  Sony data breach, exploring vulnerabilities, risk management, legal implications, and preventive measures. The project highlights the use of data analysis techniques to understand breach impacts, inform decision-making, and enhance cybersecurity strategies.
+# Sony Data Breach Analysis
+This project analyzes the  Sony data breach, identifying the causes, affected data, and potential risks, while providing data-driven insights into how the breach could have been prevented.
+
+Conducted a comprehensive analysis of breach timelines, vulnerabilities, and risk management strategies.
+Applied data analysis techniques to evaluate the breach’s impact on reputation, legal liabilities, and financial losses.
+Proposed actionable solutions and preventive measures based on findings, supporting future breach mitigation.
